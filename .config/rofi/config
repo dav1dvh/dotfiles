@@ -1,0 +1,4 @@
+rofi.color-window:	argb:d9000000
+rofi.color-normal:	argb:d9000000, argb:d9c7c7c7, argb:d9090909 
+
+rofi.theme: /home/david/.config/rofi/pop-dark.rasi
